@@ -1,9 +1,9 @@
 <?php
 session_start();
-$host = 'localhost';
-$user = 'root';
-$pass = '';
-$dbname = 'car_workshop';
+$host = 'sql101.infinityfree.com';
+$user = 'if0_42455233';
+$pass = 'iJz8so2hWVQNAe';
+$dbname = 'if0_42455233_car_workshop';
 
 $conn = new mysqli($host, $user, $pass, $dbname);
 

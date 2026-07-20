@@ -2,6 +2,8 @@
 
 A web-based appointment booking system for a car repair workshop. Customers can view real-time mechanic availability and book appointments. Admins can manage bookings through a secure dashboard.
 
+**Live site:** [mechshop.page.gd](https://mechshop.page.gd)
+
 ## Features
 
 - **Real-time availability** – View open slots per mechanic with color-coded status indicators
@@ -23,11 +25,6 @@ A web-based appointment booking system for a car repair workshop. Customers can 
 2. **Configure** – Edit `db.php` if your MySQL credentials differ from the defaults (host: `localhost`, user: `root`, pass: empty, db: `car_workshop`).
 3. **Serve** – Deploy all files to your web server's document root.
 
-**Default admin login:**
-
-| Username | Password |
-|----------|----------|
-| admin | admin123 |
 
 ## Structure
 

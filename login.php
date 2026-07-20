@@ -90,10 +90,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <button type="submit" class="btn btn-primary" style="width:100%;">&#128274; Sign In</button>
         </form>
 
-        <div class="credential-box">
-            <h4>&#128161; Default Credentials</h4>
-            <p>Username: <code>admin</code> &nbsp;|&nbsp; Password: <code>admin123</code></p>
-        </div>
 
     </div>
 </div>
